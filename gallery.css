@@ -88,3 +88,7 @@ body{overflow-x: hidden;}
     transform: translateY(-4px) !important;
 
 }
+
+
+body{max-width: 100%;
+    overflow-x: hidden;}
